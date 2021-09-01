@@ -173,3 +173,4 @@ user_data_fields = [
 # 	"phone_shop.auth.validate"
 # ]
 
+fixtures = ["Property Setter","Client Script","Server Script","Custom Field"]
